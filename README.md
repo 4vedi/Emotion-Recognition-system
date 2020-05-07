@@ -6,7 +6,8 @@
  3) Deployment: The Deep Learning part is deployed on a flask website.</br>
  
 DataSet: FER Dataset is used to train the emotions.</br>
-Main.py is used to run the project. </br>
+To Use: Run Main.py </br>
+Go to the Webbrowser and Enter 0.0.0.0/5000 </br>
 
 Final Result: </br>
 

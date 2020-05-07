@@ -11,3 +11,5 @@ Main.py is used to run the project. </br>
 Final Result: </br>
 
  
+<img src="https://github.com/4vedi/Emotion-Recognition-system/blob/master/emotion1.png" alt="happy" width="350" height="300">
+<img src="https://github.com/4vedi/Emotion-Recognition-system/blob/master/emotion2.png" alt="neutral" width="350" height="300">
